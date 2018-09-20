@@ -1,0 +1,1561 @@
+1531697504598	geckodriver	INFO	geckodriver 0.21.0
+1531697504614	geckodriver	INFO	Listening on 127.0.0.1:64074
+1531697507731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.0cjd9KZfHNQy"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531697511333	Marionette	INFO	Listening on port 64087
+1531697511737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531697528636	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531697529609	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 15296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu[Child 11444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11444, Chrome_Chil[Parent 11612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 87*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14772, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531709644916	geckodriver	INFO	geckodriver 0.21.0
+1531709644930	geckodriver	INFO	Listening on 127.0.0.1:57857
+1531709648043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.13GBEpT3lHqf"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531709651753	Marionette	INFO	Listening on port 57866
+1531709652018	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 15884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win
+.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING[Parent 12048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11[GPU 5860, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531710047959	geckodriver	INFO	geckodriver 0.21.0
+1531710047972	geckodriver	INFO	Listening on 127.0.0.1:58015
+1531710051015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.ZWV3m3hb3YAN"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531710054556	Marionette	INFO	Listening on port 58027
+1531710054853	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4956, Chr[Child 1964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1964, Chrome_Chi[Parent 2160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1247[GPU 14556, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[Chi/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ld 6916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6916[Parent 12444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4520, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531710731729	geckodriver	INFO	geckodriver 0.21.0
+1531710731743	geckodriver	INFO	Listening on 127.0.0.1:57878
+1531710734822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.RPQHEOqFg6xx"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531710738384	Marionette	INFO	Listening on port 57889
+1531710738768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531710755845	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531710757127	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 12984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel[Child 1884, Chrome_ChildThread] WARNING: pipe error_: 109: file z:/build/buiwin.cc, line 346l
+d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1884,[Parent 14380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12340[GPU 12448, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531714381658	geckodriver	INFO	geckodriver 0.21.0
+1531714381671	geckodriver	INFO	Listening on 127.0.0.1:57880
+1531714384759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.dxT6LsTGaIdn"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531714388857	Marionette	INFO	Listening on port 57889
+1531714389213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531714459556	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531714460796	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 14392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 14392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8956, [GPU 12816, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ificate errors will be ignored for this session
+1531714808277	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531714809380	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 2040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12732, [Child 1448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1448, Chrome_ChildThread] WARN[Parent 2040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13[GPU 13468
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+uild/build/src/ipc/chromium/src/chrome/common1531714945333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.CWKMMoI20OPn"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531714948895	Marionette	INFO	Listening on port 65078
+1531714949502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531715327161	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531715328425	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 11744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, li[ne 346
+[Child 11744, Chrome[Parent 8920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 915[GPU 5560,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531715314508	Marionette	INFO	Listening on port 65154
+1531715314886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531715331945	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531715333085	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 6896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Child 12940, Chrome_ChildThread] WARNING: pe 346ipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 7308[Parent 6896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tte	INFO	Listening on port 65227
+1531715515915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531715533131	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 14232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[Child 4944, build/build/src/ipc/chromium/src/chrome/common/Chromipc_channel_win.cc, line 346
+e_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 494[Parent 14232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14[GPU 53
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531715722574	geckodriver	INFO	geckodriver 0.21.0
+1531715722586	geckodriver	INFO	Listening on 127.0.0.1:65391
+1531715725635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.sDI8Ex7BRVUM"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531715729228	Marionette	INFO	Listening on port 65404
+1531715729470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531716254160	geckodriver	INFO	geckodriver 0.21.0
+1531716254174	geckodriver	INFO	Listening on 127.0.0.1:49348
+1531716257225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.IqpD1P5vwPfu"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531716261113	Marionette	INFO	Listening on port 49356
+1531716261553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531716278212	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 16108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3464, Chrome_ChildThread[Parent 16108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7216, Chro[GPU 1521
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531717248307	geckodriver	INFO	geckodriver 0.21.0
+1531717248320	geckodriver	INFO	Listening on 127.0.0.1:49731
+1531717251387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.dX75NKMXYB4O"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531717255194	Marionette	INFO	Listening on port 49739
+1531717255229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531717274988	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 13520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc[Child 12732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+_[Child channel_win.cc, line 346
+[Child 1309[Parent 13520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 528*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12612, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531784624845	geckodriver	INFO	geckodriver 0.21.0
+1531784624858	geckodriver	INFO	Listening on 127.0.0.1:61774
+1531784627987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.pkhFmlHvir0O"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531784631899	Marionette	INFO	Listening on port 61782
+1531784632380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531784649023	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11531784651422	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 5828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu[Parent 5828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 203*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531784934513	geckodriver	INFO	geckodriver 0.21.0
+1531784934529	geckodriver	INFO	Listening on 127.0.0.1:61864
+1531784937590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.x4CTHkaYv6mO"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531784941255	Marionette	INFO	Listening on port 61872
+1531784941428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531784961161	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 4584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 117[Parent 4584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11100, Chro[Parent 4584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9588, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531803108930	geckodriver	INFO	geckodriver 0.21.0
+1531803108942	geckodriver	INFO	Listening on 127.0.0.1:61306
+1531803111986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.ftYubH4k0X46"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531803121748	Marionette	INFO	Listening on port 61321
+1531803122289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531803135740	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8[Child 15992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15992, C[Parent 11400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8560, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531854939426	geckodriver	INFO	geckodriver 0.21.0
+1531854939439	geckodriver	INFO	Listening on 127.0.0.1:49820
+1531854942562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.jWpAODFMf6CN"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531854947958	Marionette	INFO	Listening on port 49832
+1531854948022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 15160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Child 8596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8596, Chr[Parent 15160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3712, Chrome_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6880, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531855025525	geckodriver	INFO	geckodriver 0.21.0
+1531855025538	geckodriver	INFO	Listening on 127.0.0.1:50055
+1531855028601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.XMurtSXfNmO0"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531855032322	Marionette	INFO	Listening on port 50067
+1531855032430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 13560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 13560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884, Chrome_Chi[Parent 13560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 77*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10668, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531855066517	geckodriver	INFO	geckodriver 0.21.0
+1531855066530	geckodriver	INFO	Listening on 127.0.0.1:50228
+1531855069644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.FSndS1buNbGB"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531855073429	Marionette	INFO	Listening on port 50240
+1531855073708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4752,[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9320, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11416, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531858449426	geckodriver	INFO	geckodriver 0.21.0
+1531858449438	geckodriver	INFO	Listening on 127.0.0.1:55069
+1531858452496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.MIbH1UtxkIZU"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531858456134	Marionette	INFO	Listening on port 55082
+1531858456557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 340[Parent 14308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884, Chrome_Chi[Parent 14308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8152*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531858506305	geckodriver	INFO	geckodriver 0.21.0
+1531858506317	geckodriver	INFO	Listening on 127.0.0.1:55259
+1531858509381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.qj09DYtYwbws"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531858513251	Marionette	INFO	Listening on port 55271
+1531858513757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 2648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Parent 2648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 127*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1748, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531858570358	geckodriver	INFO	geckodriver 0.21.0
+1531858570373	geckodriver	INFO	Listening on 127.0.0.1:55408
+1531858573436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.lw4JK1PvSm38"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531858577047	Marionette	INFO	Listening on port 55420
+1531858577436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 10944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10944, Chrome_ChildThread] WARNING: pi[Child 6944, Chrome_Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 6944, Chrome_ChildThread] WARNING: p[Parent 14616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14028, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531858629399	geckodriver	INFO	geckodriver 0.21.0
+1531858629412	geckodriver	INFO	Listening on 127.0.0.1:55556
+1531858632481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.crLMvshTtW4t"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531858636410	Marionette	INFO	Listening on port 55569
+1531858636884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 3132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 3132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7740, Chro[Parent 3132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9096, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9500, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531858811229	geckodriver	INFO	geckodriver 0.21.0
+1531858811242	geckodriver	INFO	Listening on 127.0.0.1:55949
+1531858814315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.NAHng7GW5HVG"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531858817979	Marionette	INFO	Listening on port 55962
+1531858818322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531858835380	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 13072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531858835498	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531858835499	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 13072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14432, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14440, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531858981054	geckodriver	INFO	geckodriver 0.21.0
+1531858981067	geckodriver	INFO	Listening on 127.0.0.1:56361
+1531858984133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.gLNNIknTaMyn"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531858987782	Marionette	INFO	Listening on port 56375
+1531858988065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531859005143	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531859006158	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 13544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13544, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 12744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 281: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 705: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x15002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+[Parent 12744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 13908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1531859292014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.sIn4TYikNmkl"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531859295996	Marionette	INFO	Listening on port 57072
+1531859296734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome[Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s/rcommon/ipc_channel_win.cc, line 346
+c/chrome/common/ipc_channel_win.cc, line 346
+[Child 14168,[Parent 11012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7604, Chrom[GPU 5044, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531884616257	geckodriver	INFO	geckodriver 0.21.0
+1531884616271	geckodriver	INFO	Listening on 127.0.0.1:52211
+1531884619377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.QIL6E57DNKm2"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531884626036	Marionette	INFO	Listening on port 52219
+1531884627052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531884642556	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Child 14320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640,[Parent 956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7276, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531933072933	geckodriver	INFO	geckodriver 0.21.0
+1531933072946	geckodriver	INFO	Listening on 127.0.0.1:50759
+1531933076055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.Jw9zBt6IV9nb"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531933081741	Marionette	INFO	Listening on port 50772
+1531933082333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7716, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513[Child 10968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 10968[Child 7716, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 7716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7716, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 7716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9708, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531933151384	geckodriver	INFO	geckodriver 0.21.0
+1531933151396	geckodriver	INFO	Listening on 127.0.0.1:50948
+1531933154472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.IeS9y6M8QHLB"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531933158899	Marionette	INFO	Listening on port 50961
+1531933158913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 15032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1531933308528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.yKcawA7YSjGc"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531933312527	Marionette	INFO	Listening on port 51316
+1531933313268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531933333837	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 8232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 123[Parent 8232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13984, Chr[Parent 8232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9616, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531933606547	geckodriver	INFO	geckodriver 0.21.0
+1531933606563	geckodriver	INFO	Listening on 127.0.0.1:51926
+1531933609680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.zWoysVIiyUOt"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531933613619	Marionette	INFO	Listening on port 51938
+1531933613644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+1531933643675	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 6892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15436, 1531933644909	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 6892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11844, Chr[Parent 6892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12868, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11544, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531933679413	geckodriver	INFO	geckodriver 0.21.0
+1531933679430	geckodriver	INFO	Listening on 127.0.0.1:52176
+1531933682630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.t7Afc6HQe0iE"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531933686806	Marionette	INFO	Listening on port 52188
+1531933687267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531933704174	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 7804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11516, Chro[Parent 7804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6888[Parent 7804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6236, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531933787647	geckodriver	INFO	geckodriver 0.21.0
+1531933787663	geckodriver	INFO	Listening on 127.0.0.1:52478
+1531933790780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.9XEDDDdyebX9"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531933794478	Marionette	INFO	Listening on port 52491
+1531933794775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531933811803	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 10848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 10848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12832, Chr[Parent 10848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 72*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12696, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531934359961	geckodriver	INFO	geckodriver 0.21.0
+1531934359973	geckodriver	INFO	Listening on 127.0.0.1:53480
+1531934363035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.fScinKmxId94"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531934366872	Marionette	INFO	Listening on port 53495
+1531934368073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531934384121	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Child 11860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 12472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12472, Chr[Parent 14824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11224*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531953016199	geckodriver	INFO	geckodriver 0.21.0
+1531953016212	geckodriver	INFO	Listening on 127.0.0.1:59771
+1531953019314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.B3nBFimjo77S"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531953024417	Marionette	INFO	Listening on port 59780
+1531953024793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531953041955	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 15540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4[Parent 15540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15960, Chrome_ChildThread] WARNING: [Parent 15540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 47[GPU 8000, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531953871354	geckodriver	INFO	geckodriver 0.21.0
+1531953871366	geckodriver	INFO	Listening on 127.0.0.1:60409
+1531953874427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.143tb4C4rXUC"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531953878157	Marionette	INFO	Listening on port 60421
+1531953878358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531953898311	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Child 8736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8736, [Parent 12764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12596, Chrome[Parent 12764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3228, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531954513260	geckodriver	INFO	geckodriver 0.21.0
+1531954513275	geckodriver	INFO	Listening on 127.0.0.1:61412
+1531954516339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.hZ3uXdVy1ESq"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531954519796	Marionette	INFO	Listening on port 61425
+1531954520186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531954540704	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 12176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9312[Parent 12176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1912, Chrome_ChildTh
+###!!! [Child][MessageChannel] Error: (msgtype=0x44001D,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+read] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1912, Chrome_Child[Parent 12176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1317[GPU 15228, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531956523091	geckodriver	INFO	geckodriver 0.21.0
+1531956523103	geckodriver	INFO	Listening on 127.0.0.1:64289
+1531956526160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.Z5SNUTi0ZjWI"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531956529809	Marionette	INFO	Listening on port 64302
+1531956530032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531956547178	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 2972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10908, Chrome[Child 11532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11532, [Parent 2972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1896, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531956769017	geckodriver	INFO	geckodriver 0.21.0
+1531956769032	geckodriver	INFO	Listening on 127.0.0.1:64753
+1531956772094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.Lf2aElGhrXud"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531956775452	Marionette	INFO	Listening on port 64766
+1531956775919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531956792993	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531956793880	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 13676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+[Child 9204, Chrome_ChildThread]
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el_win.cc, line 346
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+mon/ipc_channel_win.cc,[Child 9204, C line 346
+[Child [Parent 13676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 100[GPU 784, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531956891937	geckodriver	INFO	geckodriver 0.21.0
+1531956891949	geckodriver	INFO	Listening on 127.0.0.1:65034
+1531956895005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.tXKO5bxf4ZO6"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531956898405	Marionette	INFO	Listening on port 65046
+1531956898850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531956919330	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 8512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11[Parent 8512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5652, Chrome_Ch[Parent 8512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 941[GPU 16288, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531957464496	geckodriver	INFO	geckodriver 0.21.0
+1531957464509	geckodriver	INFO	Listening on 127.0.0.1:49899
+1531957467583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.6eIejXatCv8R"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531957471272	Marionette	INFO	Listening on port 49911
+1531957471715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531957492197	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 14264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 152[Parent 14264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13104, Chrom[Parent 14264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 57[GPU 14552, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531958591638	geckodriver	INFO	geckodriver 0.21.0
+1531958591651	geckodriver	INFO	Listening on 127.0.0.1:51800
+1531958594738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.GaHWxYMtEjvL"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531958598428	Marionette	INFO	Listening on port 51813
+1531958598601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531958616217	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531958617247	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 15092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1896, Chrome_ChildThread] WARNING: p[Parent 15092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11536, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531958734783	geckodriver	INFO	geckodriver 0.21.0
+1531958734796	geckodriver	INFO	Listening on 127.0.0.1:52126
+1531958737863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.jINeEiqT8r62"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531958741557	Marionette	INFO	Listening on port 52139
+1531958741971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531958759016	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5168, Chrome_Chil[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThr[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19[GPU 8888, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531960705463	geckodriver	INFO	geckodriver 0.21.0
+1531960705473	geckodriver	INFO	Listening on 127.0.0.1:55088
+1531960708535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.r6rqoSBzBs2v"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531960712419	Marionette	INFO	Listening on port 55100
+1531960712909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531960729485	geckodriver	INFO	geckodriver 0.21.0
+1531960729499	geckodriver	INFO	Listening on 127.0.0.1:55187
+1531960732567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.Fa8QnS4MPNnp"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531960736051	Marionette	INFO	Listening on port 55199
+1531960736411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531960753494	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 15372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 704[Parent 15372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 127[GPU 12328, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531961615972	geckodriver	INFO	geckodriver 0.21.0
+1531961615989	geckodriver	INFO	Listening on 127.0.0.1:56723
+1531961619073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.AvcS6i2RoXMC"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531961622744	Marionette	INFO	Listening on port 56735
+1531961623018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531961641978	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 10544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 9652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9652, [Parent 10544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3[GPU 15252, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531964351106	geckodriver	INFO	geckodriver 0.21.0
+1531964351123	geckodriver	INFO	Listening on 127.0.0.1:60674
+1531964354213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.di0HscxFfSZZ"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531964357917	Marionette	INFO	Listening on port 60687
+1531964358615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531964379157	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 11752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 11752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531970567474	geckodriver	INFO	geckodriver 0.21.0
+1531970567488	geckodriver	INFO	Listening on 127.0.0.1:53311
+1531970570541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.L9yrB1XY5e4X"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1531970574673	Marionette	INFO	Listening on port 53323
+1531970575545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531970592243	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Child 2352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel[_Cwin.cc, lihild 15588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buinld/build/src/e 346ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 15588, Chrome_ChildThread[Parent 15248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 244
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532042932767	geckodriver	INFO	geckodriver 0.21.0
+1532042932780	geckodriver	INFO	Listening on 127.0.0.1:50461
+1532042935858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.w9nzxawtGlqb"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532042941353	Marionette	INFO	Listening on port 50470
+1532042941502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+1532042986276	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+[Parent 15124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 15124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15656,[GPU 13928, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532043228404	geckodriver	INFO	geckodriver 0.21.0
+1532043228425	geckodriver	INFO	Listening on 127.0.0.1:50660
+1532043231456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.pm0UILyso2CT"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532043235244	Marionette	INFO	Listening on port 50669
+1532043235310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1532043253009	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 14124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 3888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13804, Ch[GPU 8552, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1532046604774	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 11520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9432, Chrome_Chi[Child 5820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5820, Chrome_ChildThrea[Parent 11520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13396, Chrom[GPU 14400, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532046858299	geckodriver	INFO	geckodriver 0.21.0
+1532046858300	geckodriver	INFO	Listening on 127.0.0.1:52308
+1532046861701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.bFtPMjdZ3Kh0"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532046865448	Marionette	INFO	Listening on port 52320
+1532046866133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1532046882816	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 9492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 53[Ch6, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 53[Parent 9492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15608, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532115588394	geckodriver	INFO	geckodriver 0.21.0
+1532115588411	geckodriver	INFO	Listening on 127.0.0.1:56803
+1532115591578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.Ldt9KdPlvgLw"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532115597230	Marionette	INFO	Listening on port 56812
+1532115597760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 15924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5308[Parent 15924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14560, Chrome_ChildThrea[Parent 15924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3636, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532115649777	geckodriver	INFO	geckodriver 0.21.0
+1532115649794	geckodriver	INFO	Listening on 127.0.0.1:56913
+1532115652927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.4ct4zBhO1iNf"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532115656707	Marionette	INFO	Listening on port 56921
+1532115657601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1532115677867	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 108"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 14180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 14180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12572, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532116160661	geckodriver	INFO	geckodriver 0.21.0
+1532116160678	geckodriver	INFO	Listening on 127.0.0.1:57136
+1532116163811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.WwZcTcLU9Hph"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532116167724	Marionette	INFO	Listening on port 57145
+1532116167738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[Parent 12724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2300, Chrom[Parent 12724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 159*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 972, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532470654628	geckodriver	INFO	geckodriver 0.21.0
+1532470654645	geckodriver	INFO	Listening on 127.0.0.1:53023
+1532470657751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.TbaDB3oNEaaZ"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532470661916	Marionette	INFO	Listening on port 53035
+1532470662108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1532470688154	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 9832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 972, Chrome_ChildThread] WARNI[NChild 3456, Chrome_ChildThread] WGA: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 972, Chrome_ChildThread] WARNING[Child 952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 952, Chrom[GPU 6628, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532579355334	geckodriver	INFO	geckodriver 0.21.0
+1532579355351	geckodriver	INFO	Listening on 127.0.0.1:52947
+1532579358451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.UcQwI5I7KKee"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532579374269	Marionette	INFO	Listening on port 52956
+1532579374393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1532579388141	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17100, Chrome_ChildThread] WARNING: pip[eChild 11744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11744, Chrom[Parent 13600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14[GPU 4012, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532846807845	geckodriver	INFO	geckodriver 0.21.0
+1532846807861	geckodriver	INFO	Listening on 127.0.0.1:50747
+1532846811083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.KaLZuYvTI6NC"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1532846820246	Marionette	INFO	Listening on port 50757
+1532846820787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Child 9576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Parent 7972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/
+ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13280, Chr[Parent 7972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4700, [GPU 11144, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533489096960	geckodriver	INFO	geckodriver 0.21.0
+1533489096976	geckodriver	INFO	Listening on 127.0.0.1:65201
+1533489100227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.GvB8CC4CqSEA"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1533489115458	Marionette	INFO	Listening on port 65211
+1533489115549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 5424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Child 59ld 11940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11940[Parent 5424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3116, Chrome_[GPU 1239
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533490216883	geckodriver	INFO	geckodriver 0.21.0
+1533490216890	geckodriver	INFO	Listening on 127.0.0.1:49814
+1533490219993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.GuJc3Q9t8FEn"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1533490223459	Marionette	INFO	Listening on port 49826
+1533490223990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+1533490241164	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 15492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s[Child 11436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrrc/chrome/common/ipc_channel_win.cc, line 346
+omium/src[Chi/chrome/common/ipc_channel_win.cc, line 346
+[Child 11436, Chrome_ChildThread] WARNI[Parent 15492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1275[GPU 4608, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533490848493	geckodriver	INFO	geckodriver 0.21.0
+1533490848509	geckodriver	INFO	Listening on 127.0.0.1:50895
+1533490851626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.ZzI5VADRJEeM"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1533490855723	Marionette	INFO	Listening on port 50907
+1533490856784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+1533490905172	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+[Parent 15860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11464,[Parent 15860, Gecko_IOT Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/shread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/rc/ipc/chromium/src/chrome/common/ipc_channel_win.ccommon/ipc_chac, line 346
+nnel_win.cc, line 346
+[Child 8644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8644, [Parent 15860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14128, Chro[GPU 14212,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533784334676	geckodriver	INFO	geckodriver 0.21.0
+1533784334692	geckodriver	INFO	Listening on 127.0.0.1:60552
+1533784337926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.AVf288xOD0xT"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1533784346660	Marionette	INFO	Listening on port 60562
+1533784346944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533784362711	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 14900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromi[Child 3000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346u
+m/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 5776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[GPU 12528
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534031526812	geckodriver	INFO	geckodriver 0.21.0
+1534031526845	geckodriver	INFO	Listening on 127.0.0.1:51719
+1534031530028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.hTSyxJ71lJEu"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1534031538961	Marionette	INFO	Listening on port 51729
+1534031539096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1534031554691	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 9356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[Chi.ld 13348, Chrome_ChildThread] Wcc, line 346A
+RNING: pipe error[: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13[Parent 9356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 153[GPU 7080, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534803617089	geckodriver	INFO	geckodriver 0.21.0
+1534803617098	geckodriver	INFO	Listening on 127.0.0.1:59605
+1534803620239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\George\\AppData\\Local\\Temp\\rust_mozprofile.D56SvrR7EKgh"
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\George\AppData\Local\openvr\openvrpaths.vrpath
+1534803627790	Marionette	INFO	Listening on port 59613
+1534803628041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+1534803648297	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+JavaScript warning: https://stockcharts.com/styles/com.stockcharts.workbench.sc/scui.js?v=20180209, line 1273: unreachable code after return statement
+[Parent 8012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10852, Chro[Parent 8012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[GPU 16396
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,615 @@
+07/19/2018 04:29:07 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/19/2018 04:29:10 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/19/2018 04:29:10 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/19/2018 04:29:10 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/19/2018 04:29:10 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/19/2018 04:29:10 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/19/2018 04:29:10 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/19/2018 04:29:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/19/2018 04:29:14 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/19/2018 04:29:14 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/19/2018 04:29:14 PM - SeleniumDriver - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+07/19/2018 04:29:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+07/19/2018 04:29:17 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:17 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="07527774-801d-4e77-9ad7-7044fcbdacb5")>.
+07/19/2018 04:29:19 PM - SeleniumDriver - INFO: Select by $ SPX - Daily
+07/19/2018 04:29:22 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:22 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="169f3504-b2e7-4171-a673-635abe836e73")>.
+07/19/2018 04:29:24 PM - SeleniumDriver - INFO: Select by $ SPX weekly
+07/19/2018 04:29:26 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:26 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="94d2aa6b-b018-4a65-877e-c5de16eea1e4")>.
+07/19/2018 04:29:29 PM - SeleniumDriver - INFO: Select by $ SPX - Monthly 2
+07/19/2018 04:29:31 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:31 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="4b77b8c9-916f-4d31-89b4-489311eb0e0c")>.
+07/19/2018 04:29:34 PM - SeleniumDriver - INFO: Select by $ Nasdaq Daily
+07/19/2018 04:29:36 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:36 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="384ee9d5-5611-4d84-9a0a-3a6782377b4a")>.
+07/19/2018 04:29:39 PM - SeleniumDriver - INFO: Select by $ Nasdaq weekly
+07/19/2018 04:29:41 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:41 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="f6b48973-075f-4738-9157-79b150fa3fc5")>.
+07/19/2018 04:29:43 PM - SeleniumDriver - INFO: Select by $ Nasdaq Monthly
+07/19/2018 04:29:45 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:45 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="986b3460-398d-4a2e-8df9-d627c3a15306")>.
+07/19/2018 04:29:50 PM - SeleniumDriver - INFO: Select by $ Dow Daily
+07/19/2018 04:29:52 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:52 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="275d975d-12a0-4869-b522-5827ab6a53c6")>.
+07/19/2018 04:29:54 PM - SeleniumDriver - INFO: Select by $ Dow Weekly
+07/19/2018 04:29:57 PM - SeleniumDriver - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:29:57 PM - SeleniumDriver - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ef0c8-afe6-4d54-a0c0-a36e440920d8", element="9ea0650c-f9ec-40f0-9cab-27b8bcdd43d6")>.
+07/19/2018 04:29:59 PM - SeleniumDriver - INFO: Select by $ Dow Monthly
+07/19/2018 04:34:01 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/19/2018 04:34:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/19/2018 04:34:04 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/19/2018 04:34:04 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/19/2018 04:34:04 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/19/2018 04:34:04 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/19/2018 04:34:04 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/19/2018 04:34:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/19/2018 04:34:08 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/19/2018 04:34:08 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/19/2018 04:34:08 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+07/19/2018 04:34:12 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+07/19/2018 04:34:12 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:12 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="492a7f2b-df0b-4fbb-aae5-396de0202f8c")>.
+07/19/2018 04:34:16 PM - ChartsPage - INFO: Select by $ SPX - Daily
+07/19/2018 04:34:18 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:18 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="99165e8d-0345-4cf3-aa3f-a6c98b17935f")>.
+07/19/2018 04:34:20 PM - ChartsPage - INFO: Select by $ SPX weekly
+07/19/2018 04:34:23 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:23 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="e1273a0a-2143-485e-b750-9da8ff7341ac")>.
+07/19/2018 04:34:25 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+07/19/2018 04:34:27 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:27 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="a4eb1325-b66b-4744-8883-c2ca1bb94de9")>.
+07/19/2018 04:34:29 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+07/19/2018 04:34:32 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:32 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="c631283a-bc89-471f-aa90-f33582dac25a")>.
+07/19/2018 04:34:34 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+07/19/2018 04:34:36 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:36 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="4bec475e-ce1e-40da-b980-98699f443e45")>.
+07/19/2018 04:34:39 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+07/19/2018 04:34:41 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:41 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="aef59ac0-0cf6-4666-a87d-ce215fd1ae6b")>.
+07/19/2018 04:34:43 PM - ChartsPage - INFO: Select by $ Dow Daily
+07/19/2018 04:34:45 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:45 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="be4cd786-e60b-430e-8d32-7f3f1f77755f")>.
+07/19/2018 04:34:48 PM - ChartsPage - INFO: Select by $ Dow Weekly
+07/19/2018 04:34:50 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 04:34:50 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c475a2b7-0aa3-4818-8176-41bf5e57c837", element="d2b37733-b5de-44a4-bc2b-a808d944b581")>.
+07/19/2018 04:34:52 PM - ChartsPage - INFO: Select by $ Dow Monthly
+07/19/2018 05:29:49 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/19/2018 05:29:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/19/2018 05:29:51 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/19/2018 05:29:51 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/19/2018 05:29:51 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/19/2018 05:29:52 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/19/2018 05:29:52 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/19/2018 05:29:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/19/2018 05:29:56 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/19/2018 05:29:56 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/19/2018 05:29:56 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+07/19/2018 05:29:58 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+07/19/2018 05:29:58 PM - LoginTests - INFO: Run method: saveChartsToFolder()
+07/19/2018 05:29:59 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:29:59 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="13dad7aa-c0ed-40ba-aebc-1ad933e82160")>.
+07/19/2018 05:30:02 PM - ChartsPage - INFO: Select by $ SPX - Daily
+07/19/2018 05:30:04 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ SPX - Daily.png
+07/19/2018 05:30:04 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:30:04 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="af11db21-59d7-45c6-a566-0b873fdfd2f7")>.
+07/19/2018 05:30:08 PM - ChartsPage - INFO: Select by $ SPX weekly
+07/19/2018 05:30:10 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ SPX weekly.png
+07/19/2018 05:30:10 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:30:10 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="89a11e58-62b1-41a8-b1a5-6f39083ef4ec")>.
+07/19/2018 05:30:13 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+07/19/2018 05:30:15 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ SPX - Monthly 2.png
+07/19/2018 05:30:15 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:30:15 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="7e6224bd-ee1b-4392-b995-9c8fe44a5718")>.
+07/19/2018 05:30:17 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+07/19/2018 05:30:19 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ Nasdaq Daily.png
+07/19/2018 05:30:19 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:30:19 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="bd6282e0-93ba-4917-a459-3e954adce316")>.
+07/19/2018 05:30:22 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+07/19/2018 05:30:24 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ Nasdaq weekly.png
+07/19/2018 05:30:24 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:30:24 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="3ad99195-c4a9-483b-a516-5d706173fb0a")>.
+07/19/2018 05:30:26 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+07/19/2018 05:30:28 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ Nasdaq Monthly.png
+07/19/2018 05:30:28 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:30:28 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="2d6e25c3-201d-47b7-a61f-12e5d00174e8")>.
+07/19/2018 05:30:31 PM - ChartsPage - INFO: Select by $ Dow Daily
+07/19/2018 05:30:33 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ Dow Daily.png
+07/19/2018 05:30:33 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:30:33 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="f06309c9-f066-4f8f-8bbc-01db73cfd53e")>.
+07/19/2018 05:30:35 PM - ChartsPage - INFO: Select by $ Dow Weekly
+07/19/2018 05:30:37 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ Dow Weekly.png
+07/19/2018 05:30:37 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:30:37 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6f89875-8d3f-4ff2-97e7-be038f3475ac", element="5ff2c670-3952-4f03-b4de-4f43ccf8a5df")>.
+07/19/2018 05:30:40 PM - ChartsPage - INFO: Select by $ Dow Monthly
+07/19/2018 05:30:42 PM - LoginTests - INFO: screenshot saved to: C:\\Users\\George\\Desktop\\stockcharts\\0719_2018\$ Dow Monthly.png
+07/19/2018 05:34:32 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/19/2018 05:34:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/19/2018 05:34:35 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/19/2018 05:34:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/19/2018 05:34:35 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/19/2018 05:34:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/19/2018 05:34:35 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/19/2018 05:34:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/19/2018 05:34:39 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/19/2018 05:34:39 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/19/2018 05:34:39 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+07/19/2018 05:34:41 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+07/19/2018 05:34:42 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:34:42 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="73be4df0-0f0b-4f3e-a471-8fb15ba04030")>.
+07/19/2018 05:34:44 PM - ChartsPage - INFO: Select by $ SPX - Daily
+07/19/2018 05:34:47 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:34:47 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="81b1733e-e33d-4cde-b262-0da2aa85ce7d")>.
+07/19/2018 05:34:49 PM - ChartsPage - INFO: Select by $ SPX weekly
+07/19/2018 05:34:51 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:34:51 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="c5dc46e7-9e47-4048-a4a5-f103b37e1661")>.
+07/19/2018 05:34:54 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+07/19/2018 05:34:56 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:34:56 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="42cb256b-7046-40dd-824e-44423c33343e")>.
+07/19/2018 05:34:58 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+07/19/2018 05:35:00 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:35:00 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="46268635-5568-4452-8d64-381b099f56a1")>.
+07/19/2018 05:35:03 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+07/19/2018 05:35:05 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:35:05 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="28aa71ab-16b7-4459-b860-88ce63cc79e6")>.
+07/19/2018 05:35:07 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+07/19/2018 05:35:09 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:35:09 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="c38e83f2-2e14-44ef-a9f0-c1932af5cc83")>.
+07/19/2018 05:35:12 PM - ChartsPage - INFO: Select by $ Dow Daily
+07/19/2018 05:35:14 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:35:14 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="7dc4fd67-b94d-4915-99b2-1fa0cea2e02b")>.
+07/19/2018 05:35:16 PM - ChartsPage - INFO: Select by $ Dow Weekly
+07/19/2018 05:35:18 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/19/2018 05:35:18 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a42fd31-d5be-4d63-ae56-82af80b26675", element="cb65da9c-734f-4050-891b-bafb545a9bf5")>.
+07/19/2018 05:35:21 PM - ChartsPage - INFO: Select by $ Dow Monthly
+07/20/2018 12:40:05 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/20/2018 12:40:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/20/2018 12:40:08 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/20/2018 12:40:08 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/20/2018 12:40:08 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/20/2018 12:40:08 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/20/2018 12:40:08 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/20/2018 12:40:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/20/2018 12:40:12 PM - SeleniumDriver - INFO: Element found with locator: //div[@id='userService']//span[text()='Basic'] and locatorType: xpath.
+07/20/2018 12:40:12 PM - SeleniumDriver - INFO: Element Found
+07/20/2018 12:41:01 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/20/2018 12:41:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/20/2018 12:41:04 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/20/2018 12:41:05 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/20/2018 12:41:05 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/20/2018 12:41:05 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/20/2018 12:41:05 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/20/2018 12:41:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/20/2018 12:41:08 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/20/2018 12:41:09 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/20/2018 12:41:09 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+07/20/2018 12:41:11 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+07/20/2018 12:41:11 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:11 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="e0ab156c-7dba-46b4-949b-0e322924104e")>.
+07/20/2018 12:41:14 PM - ChartsPage - INFO: Select by $ SPX - Daily
+07/20/2018 12:41:16 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:16 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="d55de950-160f-477f-9f66-8de2a9d6b689")>.
+07/20/2018 12:41:19 PM - ChartsPage - INFO: Select by $ SPX weekly
+07/20/2018 12:41:21 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:21 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="412149e4-adac-482a-a70b-324def6aa53e")>.
+07/20/2018 12:41:23 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+07/20/2018 12:41:25 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:25 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="22bfda30-1400-4c50-915c-e9cea99cc39c")>.
+07/20/2018 12:41:28 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+07/20/2018 12:41:30 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:30 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="e9c59cfd-97f9-4d6a-a5ae-c5471b992f64")>.
+07/20/2018 12:41:32 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+07/20/2018 12:41:35 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:35 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="55d3300f-cbca-479a-add2-252036b662d7")>.
+07/20/2018 12:41:37 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+07/20/2018 12:41:39 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:39 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="3629b3e9-43a4-4007-b50f-2eea75a10465")>.
+07/20/2018 12:41:42 PM - ChartsPage - INFO: Select by $ Dow Daily
+07/20/2018 12:41:44 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:44 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="0448ad1f-e61f-40e7-a362-e753f8211f2e")>.
+07/20/2018 12:41:46 PM - ChartsPage - INFO: Select by $ Dow Weekly
+07/20/2018 12:41:48 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/20/2018 12:41:48 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="96858210-83f8-458a-b288-3577657e2f95", element="eef2e58f-0484-4d50-bb6b-54cdd080dfda")>.
+07/20/2018 12:41:52 PM - ChartsPage - INFO: Select by $ Dow Monthly
+07/20/2018 12:49:32 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/20/2018 12:49:34 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/20/2018 12:49:34 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/20/2018 12:49:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/20/2018 12:49:35 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/20/2018 12:49:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/20/2018 12:49:35 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/20/2018 12:49:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/20/2018 12:49:39 PM - SeleniumDriver - INFO: Element found with locator: //div[@id='userService']//span[text()='Basic'] and locatorType: xpath.
+07/20/2018 12:49:39 PM - SeleniumDriver - INFO: Element Found
+07/24/2018 03:17:47 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/24/2018 03:17:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/24/2018 03:17:51 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/24/2018 03:17:51 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/24/2018 03:17:51 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/24/2018 03:17:51 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/24/2018 03:17:51 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/24/2018 03:17:55 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/24/2018 03:17:55 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/24/2018 03:17:55 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/24/2018 03:17:55 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+07/24/2018 03:17:58 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+07/24/2018 03:17:58 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:17:58 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="3da1cd01-cef1-4fc9-aca3-4eec172bfd7c")>.
+07/24/2018 03:18:01 PM - ChartsPage - INFO: Select by $ SPX - Daily
+07/24/2018 03:18:04 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:18:04 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="291bde89-6263-4783-80f3-93ea1fb2b3db")>.
+07/24/2018 03:18:06 PM - ChartsPage - INFO: Select by $ SPX weekly
+07/24/2018 03:18:09 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:18:09 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="cfc1e74c-cd17-4936-9280-71f3be28bc50")>.
+07/24/2018 03:18:13 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+07/24/2018 03:18:16 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:18:16 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="2cab710b-6445-49dd-bea1-1a3e511f8206")>.
+07/24/2018 03:18:19 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+07/24/2018 03:18:21 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:18:21 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="3497f7c2-ffcd-4b5e-bf92-c2d6eec4c05f")>.
+07/24/2018 03:18:24 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+07/24/2018 03:18:27 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:18:27 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="fecc4366-823e-44da-b34b-aa716c49da60")>.
+07/24/2018 03:18:29 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+07/24/2018 03:18:32 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:18:32 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="c461bf14-d85f-422a-b387-b8be2220c23c")>.
+07/24/2018 03:18:35 PM - ChartsPage - INFO: Select by $ Dow Daily
+07/24/2018 03:18:37 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:18:37 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="38fe8f14-7229-4b24-9035-4e83ec2db0bf")>.
+07/24/2018 03:18:40 PM - ChartsPage - INFO: Select by $ Dow Weekly
+07/24/2018 03:18:42 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/24/2018 03:18:42 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8342c7f9-6fb1-4e51-a6a0-d90b44c21fff", element="566f304a-e671-4e38-9544-a698d2a89540")>.
+07/24/2018 03:18:45 PM - ChartsPage - INFO: Select by $ Dow Monthly
+07/25/2018 09:29:41 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/25/2018 09:29:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/25/2018 09:29:45 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/25/2018 09:29:45 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/25/2018 09:29:45 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/25/2018 09:29:45 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/25/2018 09:29:45 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/25/2018 09:29:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/25/2018 09:29:50 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/25/2018 09:29:50 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/25/2018 09:29:51 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+07/25/2018 09:29:53 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+07/25/2018 09:29:54 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:29:54 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="7de2671f-9af6-4cb8-88d1-e97b8b36d785")>.
+07/25/2018 09:29:56 PM - ChartsPage - INFO: Select by $ SPX - Daily
+07/25/2018 09:29:59 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:29:59 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="30817b04-d2ba-4fb0-861d-e2b1abf15223")>.
+07/25/2018 09:30:02 PM - ChartsPage - INFO: Select by $ SPX weekly
+07/25/2018 09:30:05 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:30:05 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="016b1939-9cea-40ae-babd-cfc9efe25180")>.
+07/25/2018 09:30:08 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+07/25/2018 09:30:10 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:30:10 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="c809f929-ec1a-41a1-9e10-46ec98ad353c")>.
+07/25/2018 09:30:13 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+07/25/2018 09:30:16 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:30:16 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="3bb54686-a943-4fc9-b04b-1b95638c5e50")>.
+07/25/2018 09:30:18 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+07/25/2018 09:30:21 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:30:21 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="8790db33-3692-441a-87f7-019d6bf812a1")>.
+07/25/2018 09:30:24 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+07/25/2018 09:30:26 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:30:26 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="ebbd198f-e55a-4cc0-9879-51e15878e9c5")>.
+07/25/2018 09:30:29 PM - ChartsPage - INFO: Select by $ Dow Daily
+07/25/2018 09:30:31 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:30:31 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="da5a64d9-a565-4db0-8cdb-12a0b11b6d01")>.
+07/25/2018 09:30:34 PM - ChartsPage - INFO: Select by $ Dow Weekly
+07/25/2018 09:30:36 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/25/2018 09:30:36 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e7c93fa-3ad1-4a6a-899d-c4fbbf0eb64d", element="77ebb94f-e2f4-4f98-94d2-0e061a4aaea0")>.
+07/25/2018 09:30:39 PM - ChartsPage - INFO: Select by $ Dow Monthly
+07/28/2018 11:47:12 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+07/28/2018 11:47:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+07/28/2018 11:47:14 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/28/2018 11:47:14 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+07/28/2018 11:47:14 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/28/2018 11:47:14 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+07/28/2018 11:47:14 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+07/28/2018 11:47:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+07/28/2018 11:47:18 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/28/2018 11:47:18 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+07/28/2018 11:47:18 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+07/28/2018 11:47:21 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+07/28/2018 11:47:21 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:21 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="ec7bbe46-91f0-487b-adbe-b4556f08492d")>.
+07/28/2018 11:47:25 PM - ChartsPage - INFO: Select by $ SPX - Daily
+07/28/2018 11:47:27 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:27 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="4e5e011e-4272-48c2-a36d-1c9917073b0b")>.
+07/28/2018 11:47:29 PM - ChartsPage - INFO: Select by $ SPX weekly
+07/28/2018 11:47:32 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:32 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="eb3bbcf5-6543-45c7-bf43-73e9ca0b6015")>.
+07/28/2018 11:47:35 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+07/28/2018 11:47:37 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:37 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="c1bf66e8-8e2c-46a8-bb69-63e5e66a1945")>.
+07/28/2018 11:47:39 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+07/28/2018 11:47:41 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:41 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="2b8f47f9-084c-473c-ab95-da285d9015ed")>.
+07/28/2018 11:47:44 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+07/28/2018 11:47:46 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:46 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="a64af8c9-a87c-4f06-9406-9e180bc7aae2")>.
+07/28/2018 11:47:48 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+07/28/2018 11:47:50 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:50 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="65c496fe-2565-4735-9a2b-c541320160a8")>.
+07/28/2018 11:47:53 PM - ChartsPage - INFO: Select by $ Dow Daily
+07/28/2018 11:47:55 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:55 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="68ed9218-39ce-4f7c-9947-035b124713b9")>.
+07/28/2018 11:47:57 PM - ChartsPage - INFO: Select by $ Dow Weekly
+07/28/2018 11:47:59 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+07/28/2018 11:47:59 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="04edde3f-7178-47ab-9152-6256ab1e81b6", element="88eb1740-9659-49f0-b82b-d0ec2dccd52c")>.
+07/28/2018 11:48:02 PM - ChartsPage - INFO: Select by $ Dow Monthly
+08/05/2018 10:12:05 AM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+08/05/2018 10:12:06 AM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+08/05/2018 10:12:06 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/05/2018 10:12:06 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/05/2018 10:12:06 AM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/05/2018 10:12:06 AM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/05/2018 10:12:06 AM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+08/05/2018 10:12:10 AM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+08/05/2018 10:12:10 AM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/05/2018 10:12:10 AM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/05/2018 10:12:10 AM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+08/05/2018 10:12:13 AM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+08/05/2018 10:12:13 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:13 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="344a5285-9690-420c-8b21-1e754c24fb97")>.
+08/05/2018 10:12:15 AM - ChartsPage - INFO: Select by $ SPX - Daily
+08/05/2018 10:12:17 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:17 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="4e28da1d-8c5b-4eb1-acc3-40c9a0271e8e")>.
+08/05/2018 10:12:20 AM - ChartsPage - INFO: Select by $ SPX weekly
+08/05/2018 10:12:22 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:22 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="5e21acfc-5b01-42d0-919d-f4f98e510418")>.
+08/05/2018 10:12:24 AM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+08/05/2018 10:12:26 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:26 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="e673cb57-f5a7-4767-9956-341cc0e45889")>.
+08/05/2018 10:12:28 AM - ChartsPage - INFO: Select by $ Nasdaq Daily
+08/05/2018 10:12:30 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:30 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="85653181-1101-4c73-9725-1a9071d592f5")>.
+08/05/2018 10:12:33 AM - ChartsPage - INFO: Select by $ Nasdaq weekly
+08/05/2018 10:12:35 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:35 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="16bfb19d-303b-4837-9b63-6a3f3a28e090")>.
+08/05/2018 10:12:37 AM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+08/05/2018 10:12:39 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:39 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="8a61b26e-7edf-49bc-8f15-f7649a1d4836")>.
+08/05/2018 10:12:41 AM - ChartsPage - INFO: Select by $ Dow Daily
+08/05/2018 10:12:43 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:43 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="7652ba84-bf6f-4bfd-9e21-63228f235629")>.
+08/05/2018 10:12:46 AM - ChartsPage - INFO: Select by $ Dow Weekly
+08/05/2018 10:12:48 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:12:48 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6fecca88-f248-4460-b22d-30a84a12d732", element="d2897553-a144-47da-bc98-aee76b7a8968")>.
+08/05/2018 10:12:50 AM - ChartsPage - INFO: Select by $ Dow Monthly
+08/05/2018 10:30:31 AM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+08/05/2018 10:30:32 AM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+08/05/2018 10:30:32 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/05/2018 10:30:33 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/05/2018 10:30:33 AM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/05/2018 10:30:33 AM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/05/2018 10:30:33 AM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+08/05/2018 10:30:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+08/05/2018 10:30:37 AM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/05/2018 10:30:37 AM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/05/2018 10:30:37 AM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+08/05/2018 10:30:39 AM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+08/05/2018 10:30:39 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:30:39 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="1bfde4e6-af1d-49a5-8e73-fa1ed609b9a2")>.
+08/05/2018 10:30:42 AM - ChartsPage - INFO: Select by $ SPX - 1 hour
+08/05/2018 10:30:44 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:30:44 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="469b4212-d201-4e3e-ab14-fd855adbad54")>.
+08/05/2018 10:30:47 AM - ChartsPage - INFO: Select by $ SPX - Daily
+08/05/2018 10:30:49 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:30:49 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="8bb812ea-1e37-49c5-a69c-4fdb261dca68")>.
+08/05/2018 10:30:51 AM - ChartsPage - INFO: Select by $ SPX weekly
+08/05/2018 10:30:53 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:30:53 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="4a438f9f-3f8f-42fd-8631-9292e5fb3525")>.
+08/05/2018 10:30:55 AM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+08/05/2018 10:30:57 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:30:57 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="716ced38-4181-4c09-966c-0c1edbedd329")>.
+08/05/2018 10:30:59 AM - ChartsPage - INFO: Select by $ Nasdaq Daily
+08/05/2018 10:31:01 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:31:01 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="e9ff69cb-4880-4fc2-82bc-61954039d2ad")>.
+08/05/2018 10:31:03 AM - ChartsPage - INFO: Select by $ Nasdaq weekly
+08/05/2018 10:31:05 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:31:05 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="b294a659-9ef4-40dc-8d20-0dbaa3f7bcc7")>.
+08/05/2018 10:31:07 AM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+08/05/2018 10:31:09 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:31:09 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="aade7978-4518-405c-a5be-a5e714da6984")>.
+08/05/2018 10:31:11 AM - ChartsPage - INFO: Select by $ Dow Daily
+08/05/2018 10:31:14 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:31:14 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="cdf237b3-85a5-457b-bb13-472910b5c620")>.
+08/05/2018 10:31:16 AM - ChartsPage - INFO: Select by $ Dow Weekly
+08/05/2018 10:31:18 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:31:18 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2e94580-7165-4a28-a658-2567083c464b", element="a1240178-204f-489e-ad81-c7e636c5039f")>.
+08/05/2018 10:31:20 AM - ChartsPage - INFO: Select by $ Dow Monthly
+08/05/2018 10:41:02 AM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+08/05/2018 10:41:03 AM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+08/05/2018 10:41:03 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/05/2018 10:41:03 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/05/2018 10:41:03 AM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/05/2018 10:41:03 AM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/05/2018 10:41:03 AM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+08/05/2018 10:41:06 AM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+08/05/2018 10:41:06 AM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/05/2018 10:41:06 AM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/05/2018 10:41:06 AM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+08/05/2018 10:41:08 AM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+08/05/2018 10:41:08 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:08 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="d1fb9507-55e6-4065-9a62-9157296bf295")>.
+08/05/2018 10:41:10 AM - ChartsPage - INFO: Select by $ SPX - 1 hour
+08/05/2018 10:41:13 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:13 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="f8408af5-f88c-4b00-a449-4f55254f8980")>.
+08/05/2018 10:41:15 AM - ChartsPage - INFO: Select by $ SPX - Daily
+08/05/2018 10:41:17 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:17 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="68b5667a-ac1e-430f-b0f0-519a389901b4")>.
+08/05/2018 10:41:19 AM - ChartsPage - INFO: Select by $ SPX weekly
+08/05/2018 10:41:21 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:21 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="e1b2646b-87a0-4fb5-933e-9c07bd594f14")>.
+08/05/2018 10:41:23 AM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+08/05/2018 10:41:25 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:25 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="0de62624-715c-40dc-90ff-c9d88076ff18")>.
+08/05/2018 10:41:27 AM - ChartsPage - INFO: Select by $ Nasdaq 1hour
+08/05/2018 10:41:29 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:29 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="08044f52-375d-49b2-bf77-013fafbcce0c")>.
+08/05/2018 10:41:31 AM - ChartsPage - INFO: Select by $ Nasdaq Daily
+08/05/2018 10:41:34 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:34 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="ce252793-bcdb-425c-8f2e-49e8243a6c98")>.
+08/05/2018 10:41:36 AM - ChartsPage - INFO: Select by $ Nasdaq weekly
+08/05/2018 10:41:38 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:38 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="49bcc00f-35da-4733-9d02-4e254ab853a0")>.
+08/05/2018 10:41:40 AM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+08/05/2018 10:41:42 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:42 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="6c6948e8-04d7-4fd9-8838-08b5830c7105")>.
+08/05/2018 10:41:44 AM - ChartsPage - INFO: Select by $ Dow 1hour
+08/05/2018 10:41:46 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:46 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="fb157bb4-15f0-4a59-b931-fe0eb2c26e53")>.
+08/05/2018 10:41:49 AM - ChartsPage - INFO: Select by $ Dow Daily
+08/05/2018 10:41:51 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:51 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="0a9a301b-895b-4720-beda-fc3fbfe432f9")>.
+08/05/2018 10:41:53 AM - ChartsPage - INFO: Select by $ Dow Weekly
+08/05/2018 10:41:55 AM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/05/2018 10:41:55 AM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9935543a-6c09-402e-92af-e40dab771312", element="217f1d09-0cf0-4a3b-b111-fbda9a489421")>.
+08/05/2018 10:41:58 AM - ChartsPage - INFO: Select by $ Dow Monthly
+08/08/2018 08:12:35 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+08/08/2018 08:12:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+08/08/2018 08:12:37 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/08/2018 08:12:37 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/08/2018 08:12:37 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/08/2018 08:12:37 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/08/2018 08:12:37 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+08/08/2018 08:12:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+08/08/2018 08:12:41 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/08/2018 08:12:41 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/08/2018 08:12:41 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+08/08/2018 08:12:44 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+08/08/2018 08:12:44 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:12:44 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="ac84112b-e7c4-406b-bb85-003964695981")>.
+08/08/2018 08:12:47 PM - ChartsPage - INFO: Select by $ SPX - 1 hour
+08/08/2018 08:12:49 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:12:49 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="c050032c-39c2-4a36-985a-4d60587333e5")>.
+08/08/2018 08:12:51 PM - ChartsPage - INFO: Select by $ SPX - Daily
+08/08/2018 08:12:54 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:12:54 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="f9529e93-dd86-4b96-afb6-3811842d7044")>.
+08/08/2018 08:12:56 PM - ChartsPage - INFO: Select by $ SPX weekly
+08/08/2018 08:12:58 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:12:58 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="b5c05298-7d4d-4e49-a622-171e5a53bc8e")>.
+08/08/2018 08:13:00 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+08/08/2018 08:13:02 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:13:02 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="431e3a64-6ee3-4c98-bef5-1ecf0ff145eb")>.
+08/08/2018 08:13:04 PM - ChartsPage - INFO: Select by $ Nasdaq 1hour
+08/08/2018 08:13:07 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:13:07 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="32b6f7be-bced-41c9-af9c-2eda23a9a2ba")>.
+08/08/2018 08:13:09 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+08/08/2018 08:13:11 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:13:11 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="2c044bd1-0452-4b93-beef-bebf5ddca9bf")>.
+08/08/2018 08:13:13 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+08/08/2018 08:13:15 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:13:15 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="8f8453c5-9597-4d95-a055-33d5795708f5")>.
+08/08/2018 08:13:18 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+08/08/2018 08:13:20 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:13:20 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="7aac0846-c2ad-4cd9-a051-ee6ba6eedf38")>.
+08/08/2018 08:13:22 PM - ChartsPage - INFO: Select by $ Dow 1hour
+08/08/2018 08:13:24 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:13:24 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="80ff8833-a6be-479f-bc64-9f8e8f817b3f")>.
+08/08/2018 08:13:26 PM - ChartsPage - INFO: Select by $ Dow Daily
+08/08/2018 08:13:28 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:13:28 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="27019f0f-a574-4e2a-bb09-437f6c83b088")>.
+08/08/2018 08:13:31 PM - ChartsPage - INFO: Select by $ Dow Weekly
+08/08/2018 08:13:33 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/08/2018 08:13:33 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8c0e5bf-44df-43fa-9183-013565a5c1bc", element="65fd93ec-40f9-4eff-b35d-d1e5ba9cd8bc")>.
+08/08/2018 08:13:36 PM - ChartsPage - INFO: Select by $ Dow Monthly
+08/11/2018 04:52:26 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+08/11/2018 04:52:27 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+08/11/2018 04:52:27 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/11/2018 04:52:28 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/11/2018 04:52:28 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/11/2018 04:52:28 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/11/2018 04:52:28 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+08/11/2018 04:52:31 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+08/11/2018 04:52:31 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/11/2018 04:52:32 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/11/2018 04:52:32 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+08/11/2018 04:52:34 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+08/11/2018 04:52:34 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:52:34 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="f7e3f0a8-da46-4746-83a4-40ced2be5e4e")>.
+08/11/2018 04:52:37 PM - ChartsPage - INFO: Select by $ SPX - 1 hour
+08/11/2018 04:52:39 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:52:39 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="9999d220-1f64-4710-8c7d-c653be4dc1c4")>.
+08/11/2018 04:52:41 PM - ChartsPage - INFO: Select by $ SPX - Daily
+08/11/2018 04:52:43 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:52:43 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="66e6785d-0732-49cb-bdc0-19dbd142e2bb")>.
+08/11/2018 04:52:45 PM - ChartsPage - INFO: Select by $ SPX weekly
+08/11/2018 04:52:47 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:52:47 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="0b1234e9-7b2f-4ac4-812a-20e4a2128e65")>.
+08/11/2018 04:52:49 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+08/11/2018 04:52:51 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:52:51 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="5cf725b8-e7c1-4e74-b58f-382a3717e95a")>.
+08/11/2018 04:52:54 PM - ChartsPage - INFO: Select by $ Nasdaq 1hour
+08/11/2018 04:52:56 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:52:56 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="e0cf6cd2-6c41-4c6b-98f5-ee0250cdcadf")>.
+08/11/2018 04:52:58 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+08/11/2018 04:53:00 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:53:00 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="a0d192cb-0c31-48a8-9bae-bc3858555dc2")>.
+08/11/2018 04:53:02 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+08/11/2018 04:53:04 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:53:04 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="06f4da2d-4a0b-48a8-9eca-010460ce0f75")>.
+08/11/2018 04:53:06 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+08/11/2018 04:53:08 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:53:08 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="722dec91-8290-49eb-a50e-794e95177ac0")>.
+08/11/2018 04:53:11 PM - ChartsPage - INFO: Select by $ Dow 1hour
+08/11/2018 04:53:13 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:53:13 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="39f60118-60db-407b-980e-2e30090a651c")>.
+08/11/2018 04:53:15 PM - ChartsPage - INFO: Select by $ Dow Daily
+08/11/2018 04:53:17 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:53:17 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="c083c299-4bc7-445e-8cf5-ca26a183f03e")>.
+08/11/2018 04:53:19 PM - ChartsPage - INFO: Select by $ Dow Weekly
+08/11/2018 04:53:21 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/11/2018 04:53:21 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="06e49c47-b0a6-4787-8b66-3ef90fcfafab", element="6cbfcbc4-6630-4b62-9b0e-2ea3500f83fb")>.
+08/11/2018 04:53:23 PM - ChartsPage - INFO: Select by $ Dow Monthly
+08/20/2018 03:20:35 PM - SeleniumDriver - INFO: Element found with locator: //li[@id='navbar-login']//a[@href='/login'] and locatorType: xpath.
+08/20/2018 03:20:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='navbar-login']//a[@href='/login'] an locatorTpe: xpath.
+08/20/2018 03:20:36 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/20/2018 03:20:36 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='form_UserID'] and locatorType: xpath.
+08/20/2018 03:20:36 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/20/2018 03:20:37 PM - SeleniumDriver - INFO: Sent data on element with locator: //form[@id='loginform']//input[@name='form_UserPassword'] and locatorType: xpath.
+08/20/2018 03:20:37 PM - SeleniumDriver - INFO: Element found with locator: //form[@id='loginform']//button[@type='submit'] and locatorType: xpath.
+08/20/2018 03:20:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@id='loginform']//button[@type='submit'] an locatorTpe: xpath.
+08/20/2018 03:20:40 PM - ChartsPage - INFO: Element found with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/20/2018 03:20:40 PM - ChartsPage - INFO: Sent data on element with locator: //input[@id='navsearchtext'] and locatorType: xpath.
+08/20/2018 03:20:40 PM - ChartsPage - INFO: Element found with locator: //button[@id='nav-search-symbol-go-btn'] and locatorType: xpath.
+08/20/2018 03:20:42 PM - ChartsPage - INFO: Clicked on element with locator: //button[@id='nav-search-symbol-go-btn'] an locatorTpe: xpath.
+08/20/2018 03:20:42 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:20:42 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="4e6f9a01-cb4a-4c02-8372-93ef65153810")>.
+08/20/2018 03:20:45 PM - ChartsPage - INFO: Select by $ SPX - 1 hour
+08/20/2018 03:20:47 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:20:47 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="a867750b-23e8-4391-8f28-1594d95ac226")>.
+08/20/2018 03:20:49 PM - ChartsPage - INFO: Select by $ SPX - Daily
+08/20/2018 03:20:52 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:20:52 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="315858f6-f0b6-4eb4-89e4-be7d4c3a2165")>.
+08/20/2018 03:20:54 PM - ChartsPage - INFO: Select by $ SPX weekly
+08/20/2018 03:20:56 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:20:56 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="ed26fd90-5c52-4e8c-ba6a-49c7cf0421d3")>.
+08/20/2018 03:20:59 PM - ChartsPage - INFO: Select by $ SPX - Monthly 2
+08/20/2018 03:21:01 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:21:01 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="2f15c6ea-e10a-48c6-a5ed-a33fc5dbba6e")>.
+08/20/2018 03:21:03 PM - ChartsPage - INFO: Select by $ Nasdaq 1hour
+08/20/2018 03:21:05 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:21:05 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="17027bf0-b45b-49b8-837a-fb8ba65deb14")>.
+08/20/2018 03:21:07 PM - ChartsPage - INFO: Select by $ Nasdaq Daily
+08/20/2018 03:21:09 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:21:09 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="ba1eabf2-63b8-4799-abaa-4c6f0115b961")>.
+08/20/2018 03:21:12 PM - ChartsPage - INFO: Select by $ Nasdaq weekly
+08/20/2018 03:21:14 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:21:14 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="79a91ac1-db41-42da-ace4-7da64f747ddf")>.
+08/20/2018 03:21:16 PM - ChartsPage - INFO: Select by $ Nasdaq Monthly
+08/20/2018 03:21:18 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:21:18 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="f55d122d-0c2d-4839-94e9-53ae7785dad9")>.
+08/20/2018 03:21:20 PM - ChartsPage - INFO: Select by $ Dow 1hour
+08/20/2018 03:21:22 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:21:22 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="52c1ef8e-730e-446a-be1c-c28426896534")>.
+08/20/2018 03:21:24 PM - ChartsPage - INFO: Select by $ Dow Daily
+08/20/2018 03:21:27 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:21:27 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="790eebfe-48cc-4173-8bfd-5452de529c51")>.
+08/20/2018 03:21:29 PM - ChartsPage - INFO: Select by $ Dow Weekly
+08/20/2018 03:21:31 PM - ChartsPage - INFO: Element found with locator: //select[@id='favoritesLoad'] and locatorType: xpath.
+08/20/2018 03:21:31 PM - ChartsPage - INFO: Dropdown select element Found: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="df9c1645-daee-4629-9e51-4473ae669b12", element="e689ce46-009a-418f-8067-26d018703ba7")>.
+08/20/2018 03:21:33 PM - ChartsPage - INFO: Select by $ Dow Monthly
